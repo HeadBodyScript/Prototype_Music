@@ -1,0 +1,5 @@
+{
+  "newsong.ncr_beatcore": { "category": "master", "sounds": [ "custom/beatcore_believe" ] },
+  "newsong.ncr_elektronomia": { "category": "master", "sounds": [ "custom/elektronomia_summer_vibes" ] },
+  "newsong.ncr_tubu": { "category": "master", "sounds": [ "custom/tobu_such_fun" ] }
+}
